@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prime"
+    id="0a5c2629-2b79-4e76-8ac9-7e29b398d345"
+    documentation="il existe plusieurs type des primes :Naissace ,Marriage,Radiologie...&#xD;&#xA;chaque type de prime a un montant"/>
