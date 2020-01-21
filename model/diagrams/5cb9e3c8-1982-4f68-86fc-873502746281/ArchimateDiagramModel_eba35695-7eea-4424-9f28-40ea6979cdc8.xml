@@ -9,8 +9,8 @@
       id="b78d3c38-dd1e-4d82-9241-5c180167d0e5"
       targetConnections="4ab7bc0d-aa3e-4d8c-bc2d-f055e30f206f">
     <bounds
-        x="96"
-        y="288"
+        x="60"
+        y="276"
         width="120"
         height="55"/>
     <archimateElement
@@ -22,8 +22,8 @@
       id="cd23c487-1d93-46e5-bbe9-5fb097eea9d3"
       targetConnections="3eda2c8f-2271-4266-8921-58aa5453aa71">
     <bounds
-        x="228"
-        y="288"
+        x="192"
+        y="300"
         width="120"
         height="55"/>
     <archimateElement
