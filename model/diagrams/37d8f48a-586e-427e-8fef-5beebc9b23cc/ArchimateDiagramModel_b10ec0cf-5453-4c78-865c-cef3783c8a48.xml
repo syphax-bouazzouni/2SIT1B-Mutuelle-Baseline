@@ -1,9 +1,8 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="décès"
-    id="b10ec0cf-5453-4c78-865c-cef3783c8a48"
-    viewpoint="application_cooperation">
+    name="Décès"
+    id="b10ec0cf-5453-4c78-865c-cef3783c8a48">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="136b12b0-dc45-46f5-9a88-0ec3ac5274f1"

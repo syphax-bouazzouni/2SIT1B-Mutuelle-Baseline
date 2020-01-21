@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AdhésionAPP"
+    name="Adhésion"
     id="a64d9744-fc2e-427d-b1d9-d778c1e4910e"
     viewpoint="application_cooperation">
   <children
@@ -58,8 +58,8 @@
       id="894ac1e8-b463-4080-9f26-c03d109e2912"
       targetConnections="b5f00fc1-cd8c-4f32-9ad7-8cfafc688329">
     <bounds
-        x="408"
-        y="240"
+        x="360"
+        y="228"
         width="120"
         height="55"/>
     <archimateElement
@@ -71,7 +71,7 @@
       id="372bbb05-95c0-4795-bad5-b9d5295c20fb"
       targetConnections="6c9d6b66-406a-418b-8582-0542db0b5d11">
     <bounds
-        x="384"
+        x="360"
         y="84"
         width="120"
         height="55"/>
@@ -118,7 +118,7 @@
       id="d8a18c3d-58c7-4efd-8f7f-2274a9d8a276"
       targetConnections="44398a96-6c1a-4073-a2f5-c0e9bd745f7d">
     <bounds
-        x="527"
+        x="528"
         y="84"
         width="120"
         height="55"/>
