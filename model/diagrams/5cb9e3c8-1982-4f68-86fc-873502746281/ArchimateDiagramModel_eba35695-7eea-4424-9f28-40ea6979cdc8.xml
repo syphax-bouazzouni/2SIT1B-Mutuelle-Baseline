@@ -2,15 +2,14 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Adhésion"
-    id="eba35695-7eea-4424-9f28-40ea6979cdc8"
-    viewpoint="business_process_cooperation">
+    id="eba35695-7eea-4424-9f28-40ea6979cdc8">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b78d3c38-dd1e-4d82-9241-5c180167d0e5"
       targetConnections="4ab7bc0d-aa3e-4d8c-bc2d-f055e30f206f">
     <bounds
-        x="60"
-        y="276"
+        x="96"
+        y="168"
         width="120"
         height="55"/>
     <archimateElement
@@ -22,8 +21,8 @@
       id="cd23c487-1d93-46e5-bbe9-5fb097eea9d3"
       targetConnections="3eda2c8f-2271-4266-8921-58aa5453aa71">
     <bounds
-        x="192"
-        y="300"
+        x="96"
+        y="240"
         width="120"
         height="55"/>
     <archimateElement
@@ -35,8 +34,8 @@
       id="15e0f049-0d23-4682-b5d9-0e6eca482d95"
       targetConnections="99ced534-33b3-43ef-b39c-1fd4132afc0d">
     <bounds
-        x="359"
-        y="288"
+        x="264"
+        y="324"
         width="120"
         height="55"/>
     <archimateElement
@@ -48,8 +47,8 @@
       id="8d6ab322-514b-44c5-b949-ef08089584ca"
       targetConnections="5405e873-47b8-4528-95c9-f934a607e997">
     <bounds
-        x="492"
-        y="288"
+        x="420"
+        y="324"
         width="120"
         height="55"/>
     <archimateElement
@@ -62,7 +61,7 @@
       targetConnections="d683b18c-1cb0-48a5-a81f-8ac16b33b8ef">
     <bounds
         x="624"
-        y="288"
+        y="276"
         width="120"
         height="55"/>
     <archimateElement
