@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AdhésionAPP"
+    id="a64d9744-fc2e-427d-b1d9-d778c1e4910e">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="8098251d-381c-4d1d-be8b-95681f6bb802">
+    <bounds
+        x="648"
+        y="528"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_2c79aba1-4fe5-402c-a562-848f2065fae7.xml#2c79aba1-4fe5-402c-a562-848f2065fae7"/>
+  </children>
+</archimate:ArchimateDiagramModel>
