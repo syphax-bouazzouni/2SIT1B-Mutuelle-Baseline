@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="business"
+    name="décès"
     id="6f04efea-0375-436a-b873-d876095a2fef"
     documentation="saisir les cotisation du capital décès ">
   <children
@@ -9,7 +9,7 @@
       id="17e08e18-8947-44fa-9be7-843fd481bad7">
     <bounds
         x="160"
-        y="-60"
+        y="-12"
         width="160"
         height="100"/>
     <archimateElement
@@ -27,18 +27,6 @@
     <archimateElement
         xsi:type="archimate:Location"
         href="Location_73ef9b77-aff6-44b4-8153-b0f33853dcb8.xml#73ef9b77-aff6-44b4-8153-b0f33853dcb8"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="f3e2a69c-0510-4300-9f22-5dc5fedfea76">
-    <bounds
-        x="-12"
-        y="39"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessRole"
-        href="BusinessRole_eaf5c1ec-22b7-4560-8609-c97ecc68bbdb.xml#eaf5c1ec-22b7-4560-8609-c97ecc68bbdb"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
