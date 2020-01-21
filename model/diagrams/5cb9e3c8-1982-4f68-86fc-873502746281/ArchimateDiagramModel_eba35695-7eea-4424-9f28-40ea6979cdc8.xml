@@ -194,7 +194,7 @@
     </sourceConnections>
     <bounds
         x="359"
-        y="-128"
+        y="-108"
         width="120"
         height="55"/>
     <archimateElement
@@ -242,8 +242,8 @@
           href="CompositionRelationship_395b2cf2-a492-4b82-a9ba-b10381d9ad73.xml#395b2cf2-a492-4b82-a9ba-b10381d9ad73"/>
     </sourceConnections>
     <bounds
-        x="540"
-        y="-171"
+        x="576"
+        y="-156"
         width="733"
         height="141"/>
     <children
