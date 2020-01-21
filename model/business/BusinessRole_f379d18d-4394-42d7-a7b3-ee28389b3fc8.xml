@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Agent du service des adhésions"
+    id="f379d18d-4394-42d7-a7b3-ee28389b3fc8"
+    documentation="Il recupère aussi le fichier contenant les préstations acte de la CNAS et le transmet au services Préstation pour l'importer sur le système SIGA"/>
