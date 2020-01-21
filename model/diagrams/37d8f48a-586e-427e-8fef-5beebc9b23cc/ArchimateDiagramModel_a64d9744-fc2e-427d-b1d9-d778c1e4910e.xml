@@ -2,13 +2,24 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AdhésionAPP"
-    id="a64d9744-fc2e-427d-b1d9-d778c1e4910e">
+    id="a64d9744-fc2e-427d-b1d9-d778c1e4910e"
+    viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="b33360a8-6de3-4983-8483-ee92e3e86326">
+      id="b33360a8-6de3-4983-8483-ee92e3e86326"
+      targetConnections="81579ee6-53c4-4959-8ef1-d934517833bf">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="b5f00fc1-cd8c-4f32-9ad7-8cfafc688329"
+        source="b33360a8-6de3-4983-8483-ee92e3e86326"
+        target="894ac1e8-b463-4080-9f26-c03d109e2912">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_1851d61b-e54c-4649-beaf-62f5ef734fd1.xml#1851d61b-e54c-4649-beaf-62f5ef734fd1"/>
+    </sourceConnections>
     <bounds
-        x="691"
-        y="300"
+        x="696"
+        y="240"
         width="120"
         height="55"/>
     <archimateElement
@@ -17,10 +28,11 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="894ac1e8-b463-4080-9f26-c03d109e2912">
+      id="894ac1e8-b463-4080-9f26-c03d109e2912"
+      targetConnections="b5f00fc1-cd8c-4f32-9ad7-8cfafc688329">
     <bounds
-        x="372"
-        y="504"
+        x="408"
+        y="240"
         width="120"
         height="55"/>
     <archimateElement
@@ -31,8 +43,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="372bbb05-95c0-4795-bad5-b9d5295c20fb">
     <bounds
-        x="372"
-        y="204"
+        x="408"
+        y="120"
         width="120"
         height="55"/>
     <archimateElement
@@ -42,9 +54,18 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="01f75cde-307c-4ed6-adbb-484f95c0dd71">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="81579ee6-53c4-4959-8ef1-d934517833bf"
+        source="01f75cde-307c-4ed6-adbb-484f95c0dd71"
+        target="b33360a8-6de3-4983-8483-ee92e3e86326">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_e43984ab-443a-426d-bde0-7042b74241b5.xml#e43984ab-443a-426d-bde0-7042b74241b5"/>
+    </sourceConnections>
     <bounds
-        x="691"
-        y="495"
+        x="696"
+        y="408"
         width="120"
         height="55"/>
     <archimateElement
