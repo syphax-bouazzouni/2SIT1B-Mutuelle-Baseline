@@ -228,8 +228,8 @@
           href="ServingRelationship_369575a8-e830-4d75-a06b-0f6854f85917.xml#369575a8-e830-4d75-a06b-0f6854f85917"/>
     </sourceConnections>
     <bounds
-        x="720"
-        y="72"
+        x="528"
+        y="63"
         width="120"
         height="55"/>
     <archimateElement
@@ -241,8 +241,8 @@
       id="6cd89331-68c1-4e9d-a1b3-e2bac2bca8bb"
       targetConnections="0d49d0fd-6d49-4770-8a3d-ea74a1658857">
     <bounds
-        x="744"
-        y="252"
+        x="696"
+        y="240"
         width="120"
         height="55"/>
     <archimateElement
