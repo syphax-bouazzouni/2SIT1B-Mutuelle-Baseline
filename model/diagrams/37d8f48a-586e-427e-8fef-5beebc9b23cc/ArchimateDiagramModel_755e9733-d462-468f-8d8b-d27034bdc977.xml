@@ -43,6 +43,24 @@
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_cd0084e6-7daa-4b7e-85ca-c2726652e3e2.xml#cd0084e6-7daa-4b7e-85ca-c2726652e3e2"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="ec9cb272-27b8-41eb-baa4-9b0bd5c0be15"
+        source="db166162-940a-4356-96ba-788ff721154c"
+        target="dde54730-9776-4456-a1ff-59dca93aa726">
+      <archimateRelationship
+          xsi:type="archimate:AccessRelationship"
+          href="AccessRelationship_f54b3c24-4995-4a20-87b0-4e25050b3653.xml#f54b3c24-4995-4a20-87b0-4e25050b3653"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="41b87008-566f-4d11-a8d3-dcdfbbc9bf13"
+        source="db166162-940a-4356-96ba-788ff721154c"
+        target="678d4909-cc3a-41da-b7c0-d60b43161f57">
+      <archimateRelationship
+          xsi:type="archimate:AccessRelationship"
+          href="AccessRelationship_97fead4f-7d7e-495f-b8ff-c7ca66937d9c.xml#97fead4f-7d7e-495f-b8ff-c7ca66937d9c"/>
+    </sourceConnections>
     <bounds
         x="636"
         y="252"
@@ -187,5 +205,31 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_098b0342-a58b-4689-a45b-5c258d89171c.xml#098b0342-a58b-4689-a45b-5c258d89171c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="678d4909-cc3a-41da-b7c0-d60b43161f57"
+      targetConnections="41b87008-566f-4d11-a8d3-dcdfbbc9bf13">
+    <bounds
+        x="564"
+        y="360"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_fd766f0d-9778-42f4-b364-1abdef07cc7a.xml#fd766f0d-9778-42f4-b364-1abdef07cc7a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="dde54730-9776-4456-a1ff-59dca93aa726"
+      targetConnections="ec9cb272-27b8-41eb-baa4-9b0bd5c0be15">
+    <bounds
+        x="708"
+        y="360"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_c0ba70b4-9d18-4667-bf1a-e28087b84fa7.xml#c0ba70b4-9d18-4667-bf1a-e28087b84fa7"/>
   </children>
 </archimate:ArchimateDiagramModel>
