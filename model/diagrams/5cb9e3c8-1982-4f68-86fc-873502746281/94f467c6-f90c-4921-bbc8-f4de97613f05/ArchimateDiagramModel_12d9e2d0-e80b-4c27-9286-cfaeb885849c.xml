@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="cotisation"
+    name="Cotisation"
     id="12d9e2d0-e80b-4c27-9286-cfaeb885849c">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
